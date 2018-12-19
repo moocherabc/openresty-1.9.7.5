@@ -1,6 +1,6 @@
 
 
-我的编译参数为：
+鎴戠殑缂栬瘧鍙傛暟
 
 ./configure --prefix=/data/services/openresty    --with-http_gzip_static_module  --with-http_realip_module --with-http_iconv_module --with-luajit --without-http_redis2_module  --with-http_stub_status_module
 
