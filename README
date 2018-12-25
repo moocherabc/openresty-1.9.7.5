@@ -1,4 +1,5 @@
 
+chmod +x configure  授权执行权限 再执行
 
 我的编译参数
 
